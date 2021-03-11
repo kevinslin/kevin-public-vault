@@ -2,9 +2,27 @@
 id: 1bd5d6ee-002a-4b2a-801c-14f44dee2d7d
 title: Terms
 desc: ''
-updated: 1613943087292
+updated: 1615413011761
 created: 1613940137764
 ---
+
+### Common Stock
+- source: [^cs]
+<!-- -->
+
+[^cs]: https://seraf-investor.com/compass/article/who-owns-what-understanding-early-stage-capitalization-tables-part-i
+
+The most basic form of equity ownership in a company is called common stock. Each share of common stock represents partial ownership of the company and gives the shareholder certain rights to company profits and voting on corporate matters, all as spelled out in the charter and the law of the state of incorporation.
+
+
+### Preferred Stock 
+- source: [^ps]
+<!-- -->
+
+[^ps]: https://seraf-investor.com/compass/article/who-owns-what-understanding-early-stage-capitalization-tables-part-i
+
+A class or series of stock with special rights and privileges outlined in the company’s charter. By default, preferred stock is typically paid before common (but after debt) in a liquidation or sale situation.
+
 
 
 ### Fully diluted shares
@@ -12,7 +30,7 @@ created: 1613940137764
 <!-- -->
 
 
-- Fully diluted shares are the total number of common shares of a company that will be outstanding and available to trade on the open market after all possible sources of conversion, such as convertible bonds and employee stock options, are exercised
+- Fully diluted shares are the total number of common shares of a company that will be outstanding and available to trade on the open market after all possible sources of conversion, such as **convertible bonds and employee stock options**, are exercised
 -  include not only those which are currently issued but also those that could be claimed through conversion
 - details
     - Fully diluted shares affect the EPS of a company, which is a common metric for assessing relative value and profitability

@@ -4,12 +4,23 @@ title: Safe
 desc: ''
 updated: 1614879750768
 created: 1614878945019
+noindex: true
 ---
 
 ## Summary
 - source: [^1]
+- source: [^yc-safe]
 <!-- -->
+
+- Simple Agreement for Future Equity
+- it's an instrument where the investor will give you money now in exchange for a promise from the company to give shares to the investor at a future date when you raise money on a priced round.
+- negotiation points:
+    - how much money the investor will put into the company 
+    - valuation cap
+- SAFE is not debt
+
 - safes are “post-money” safes
+
 - safe holder ownership is measured after (post) all the safe money is accounted for - which is its own round now - but still before (pre) the new money in the priced round that converts and dilutes the safes (usually the Series A, but sometimes Series Seed).
 - post-money safe has what we think is a huge advantage for both founders and investors - the ability to calculate immediately and precisely how much ownership of the company has been sold. 
     -  It’s critically important for founders to understand how much dilution is caused by each safe they sell, just as it is fair for investors to know how much ownership of the company they have purchased.
@@ -35,7 +46,48 @@ created: 1614878945019
 * Safe: MFN, no Valuation Cap, no Discount
 * Pro Rata Side Letter
 
-## Next
+## Details
+- source: [^rubicon]
+<!-- -->
+
+<!-- -->
+- Treatment @ Financing	: Automatic conversion to preferred stock when you raise an equity round of any size. Conversion price = lesser of cap or discount, if applicable.	
+- Treatment @ Acquisition: Option to (a) convert to common stock at the cap or (b) get paid back the original investment.	
+
+-  Simple Agreement for Future Equity
+
+## Layout
+- source: [^yc-safe]
+- Section one talks about what happens in various different sets of events. 
+    - most of the time, what's going to happen is there will be an equity financing at some point in the future
+    - other cases
+        -  there might be a liquidity event, i.e., the company might get sold before the SAFE converts
+        -  company might decide to close down whilst the SAFE is still outstanding
+-  section two is just the definition section
+-  Section three are the representations that the company makes to the investor.
+    - company is duly formed, it's correctly formed in Delaware
+- Section four is the representations that the investors make to the company
+    - so it's things like the investor saying, "Yes, I agree, I'm an accredited investor.
+-  section five is kind of legal boilerplate language that needs to be in there
+
+## Terms
+
+### post money valuation
+- source: [^yc-safe]
+- the pre-money valuation plus the amount of money raised equals the post-money valuation of the company
+- eg. if you have a $5 million pre-money valuation and you raise $1 million, then the post-money valuation of the company is $6 million. 
+
+### valuation cap
+- source: [^vc]
+<!-- -->
+-  It entitles investors to equity priced at the lower of the valuation cap or the pre-money valuation in the subsequent financing
+
+
+## Related
 - https://www.ycombinator.com/assets/ycdc/Primer%20for%20post-money%20safe%20v1.1-b12b459ccdcf1ff659f1eabb4c1969f2e4ca6a063d43bf2fbed76d1d376ee1a3.pdf
+- [Everything to Know About the New, Post-Money SAFE Agreement](https://medium.com/@ramyadeeb/everything-you-should-know-about-the-new-post-money-safe-agreement-e90f09b9d3a8)
 
 [^1]: https://www.ycombinator.com/documents
+[^rubicon]: http://www.rubiconlaw.com/what-are-all-the-key-differences-between-the-y-combinator-safe-and-500-startups-kiss/
+[^yc-safe]: https://www.ycombinator.com/library/6m-understanding-safes-and-priced-equity-rounds
+[^vc]: https://help.wefunder.com/deal-terms/295252-valuation-cap#:~:text=The%20valuation%20cap%20is%20a,by%20the%20series%20A%20valuation.

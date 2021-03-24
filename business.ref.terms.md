@@ -2,7 +2,7 @@
 id: 1bd5d6ee-002a-4b2a-801c-14f44dee2d7d
 title: Terms
 desc: ''
-updated: 1615413011761
+updated: 1616548391360
 created: 1613940137764
 ---
 
@@ -41,3 +41,13 @@ A class or series of stock with special rights and privileges outlined in the co
 
 ### Early Exercisable Stock Options
 - https://www.cooleygo.com/early-exercisable-stock-options-what-you-need-to-know/
+
+
+### Pro Rata Rights
+- source: [^holloway]
+<!-- -->
+
+- guarantee an investor the opportunity to invest an amount in subsequent funding rounds that maintains their ownership percentage.
+
+[^holloway]: https://www.holloway.com/g/venture-capital/sections/pro-rata-rights
+
